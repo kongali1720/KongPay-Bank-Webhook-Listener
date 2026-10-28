@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kongali1720/KongWallet-Payment-Gateway-API/blob/main/kop_surat.jpg" width="100%" alt="Kongali Project Letterhead">
+  <img src="https://raw.githubusercontent.com/kongali1720/KongPay-Bank-Webhook-Listener/main/logo-baru.jpg" width="100%" alt="KongPay Bank Webhook Listener">
 </p>
 
 <h1 align="center">🔐 KongPay Bank Webhook Listener</h1>
