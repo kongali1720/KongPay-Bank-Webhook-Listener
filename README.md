@@ -399,6 +399,8 @@ Login: `admin` / `admin` (change on first login)
 - Error count
 - Go heap, GC pause
 
+![KongPay Webhook Dashboard](https://raw.githubusercontent.com/kongali1720/KongPay-Bank-Webhook-Listener/main/grafana-admin-Al%21g3.png)
+
 ---
 
 ## 🛠 Automation (Makefile)
