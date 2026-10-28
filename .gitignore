@@ -1,0 +1,43 @@
+# ── Binaries & build artifacts ──────────────────────────
+/kongpay-app
+*.exe
+*.test
+*.out
+/bin/
+/tmp/
+
+# ── Private keys (JANGAN commit) ────────────────────────
+*.key
+*.pem
+!ca.crt
+!server.crt
+!client.crt
+
+# ── Runtime data ────────────────────────────────────────
+/prometheus_data/
+*.log
+*.pid
+
+# ── Backup files ────────────────────────────────────────
+*.bak
+*.bak.*
+*.swp
+*.tmp
+san.cnf
+server.csr
+client.csr
+
+# ── Environment ─────────────────────────────────────────
+.env
+.env.*
+!.env.example
+
+# ── OS ──────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Editor ──────────────────────────────────────────────
+.vscode/
+.idea/
+*.code-workspace

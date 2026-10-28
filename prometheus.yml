@@ -1,0 +1,8 @@
+global:
+  scrape_interval: 15s     # Seberapa sering Prometheus mengambil metrik (default: setiap 15 detik)
+  evaluation_interval: 15s # Seberapa sering rules dievaluasi
+
+scrape_configs:
+  - job_name: 'kongpay-backend'
+    static_configs:
+      - targets: ['localhost:9090'] # Alamat server metrics KongPay
